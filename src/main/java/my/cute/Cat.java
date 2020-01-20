@@ -1,4 +1,4 @@
-package my.cuit;
+package my.cute;
 
 public class Cat {
 }
