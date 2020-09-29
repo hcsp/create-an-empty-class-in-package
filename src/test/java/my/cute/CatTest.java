@@ -1,5 +1,6 @@
 package my.cute;
 
+import main.java.my.cute.Cat;
 import org.junit.jupiter.api.Test;
 
 public class CatTest {
