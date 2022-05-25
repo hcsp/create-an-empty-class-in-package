@@ -1,4 +1,4 @@
-package cute;
+package my.cute;
 
 /**
  * @author Lilei
